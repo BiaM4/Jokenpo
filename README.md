@@ -1,4 +1,4 @@
-# 🌑📄✂️ Jogo Jokenpô - Pedra, Papel e Tesoura
+# 🌑📄✂️ Jokenpô - Pedra, Papel e Tesoura
 
 Um jogo simples e divertido de Pedra, Papel e Tesoura desenvolvido com **HTML**, **CSS** e **JavaScript**, totalmente responsivo e com visual animado para tornar a experiência ainda mais legal!
 
